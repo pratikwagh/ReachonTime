@@ -1,26 +1,26 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:2:1-28:12
-MERGED from [com.getbase:floatingactionbutton:1.9.0] /home/user/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.9.0.aar/2db3b39e1099b695db6d21b4ba6ab311/AndroidManifest.xml:2:1-14:12
-MERGED from [com.wdullaer:materialdatetimepicker:1.2.1] /home/user/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-1.2.1.aar/df75b1886b82c3f531096de9ed1146a4/AndroidManifest.xml:17:1-30:12
-MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-multiselect-0.2.aar/09ed0c7b52eac3e7a5653514a46c2c4c/AndroidManifest.xml:2:1-11:12
-MERGED from [com.wrapp.floatlabelededittext:library:0.0.6] /home/user/.gradle/caches/transforms-1/files-1.1/library-0.0.6.aar/dc9997c43ed67727a4424fafaae87bdc/AndroidManifest.xml:2:1-13:12
-MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/f750cd48f3f42b2859718a8515d9916a/AndroidManifest.xml:2:1-14:12
+ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:2:1-28:12
 MERGED from [com.google.firebase:firebase-core:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/ea8a7885a6654c1df93d0324bd666f9c/AndroidManifest.xml:2:1-6:12
 MERGED from [com.android.support:design:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/75b9e514e0f29dc36a6dbb4e8ec680a9/AndroidManifest.xml:17:1-31:12
 MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/7089e2026a582649df048ee0305f71b8/AndroidManifest.xml:2:1-19:12
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-multiselect-0.2.aar/09ed0c7b52eac3e7a5653514a46c2c4c/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7d79effdba89c46284f12a142f17b8df/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/464e6da5d1fd3ce9a5574515f8196f56/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-database:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/8bbac288c3d7abc3d147ed429fdb3b2b/AndroidManifest.xml:2:1-4:12
 MERGED from [com.android.support:cardview-v7:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/e12519841afe2c8c0f936091adfcfc38/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3f1c832a517ccdbbeb43abcd982ebf8d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.getbase:floatingactionbutton:1.9.0] /home/user/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.9.0.aar/2db3b39e1099b695db6d21b4ba6ab311/AndroidManifest.xml:2:1-14:12
+MERGED from [com.wdullaer:materialdatetimepicker:1.2.1] /home/user/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-1.2.1.aar/df75b1886b82c3f531096de9ed1146a4/AndroidManifest.xml:17:1-30:12
+MERGED from [com.wrapp.floatlabelededittext:library:0.0.6] /home/user/.gradle/caches/transforms-1/files-1.1/library-0.0.6.aar/dc9997c43ed67727a4424fafaae87bdc/AndroidManifest.xml:2:1-13:12
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/f750cd48f3f42b2859718a8515d9916a/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/5f98de3cc94a51a89941f8e8478fea64/AndroidManifest.xml:16:1-35:12
 MERGED from [com.android.support:transition:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/138b7aa4b5d322c2ea3ebd3a0adeca21/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/edd9b57ba682c1f22e7ad08703ea0468/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/191e5909a8bed6aad9ec067186a871ee/AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/5f98de3cc94a51a89941f8e8478fea64/AndroidManifest.xml:16:1-35:12
 MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/301b7450feced4f842b6aec8baaff812/AndroidManifest.xml:16:1-29:12
 MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/dca6f6ef8dca52a1c48e4df035793f22/AndroidManifest.xml:16:1-50:12
 MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/36a02f9f4c8cd90c2b55db52e0712a3a/AndroidManifest.xml:2:1-4:12
@@ -34,25 +34,25 @@ MERGED from [com.android.support:support-media-compat:26.1.0] /home/user/.gradle
 MERGED from [com.android.support:support-core-utils:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ea7bf01dd5d9dc3bd40e09845cb3254d/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/397b629a5525cc4886133009eb79417a/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2ba4ddf89e400c4e6bccd9978347c814/AndroidManifest.xml:17:1-30:12
-INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:3:5-45
-		INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml
-		INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:2:1-28:12
-		INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:2:1-28:12
-		INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:5:5-67
 MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/7089e2026a582649df048ee0305f71b8/AndroidManifest.xml:11:5-67
 MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/7089e2026a582649df048ee0305f71b8/AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/5f98de3cc94a51a89941f8e8478fea64/AndroidManifest.xml:20:5-66
@@ -62,25 +62,17 @@ MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/user/.gra
 MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/dca6f6ef8dca52a1c48e4df035793f22/AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/dca6f6ef8dca52a1c48e4df035793f22/AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:7:5-26:19
-MERGED from [com.getbase:floatingactionbutton:1.9.0] /home/user/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.9.0.aar/2db3b39e1099b695db6d21b4ba6ab311/AndroidManifest.xml:12:5-20
-MERGED from [com.getbase:floatingactionbutton:1.9.0] /home/user/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.9.0.aar/2db3b39e1099b695db6d21b4ba6ab311/AndroidManifest.xml:12:5-20
-MERGED from [com.wdullaer:materialdatetimepicker:1.2.1] /home/user/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-1.2.1.aar/df75b1886b82c3f531096de9ed1146a4/AndroidManifest.xml:28:5-20
-MERGED from [com.wdullaer:materialdatetimepicker:1.2.1] /home/user/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-1.2.1.aar/df75b1886b82c3f531096de9ed1146a4/AndroidManifest.xml:28:5-20
-MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-multiselect-0.2.aar/09ed0c7b52eac3e7a5653514a46c2c4c/AndroidManifest.xml:9:5-20
-MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-multiselect-0.2.aar/09ed0c7b52eac3e7a5653514a46c2c4c/AndroidManifest.xml:9:5-20
-MERGED from [com.wrapp.floatlabelededittext:library:0.0.6] /home/user/.gradle/caches/transforms-1/files-1.1/library-0.0.6.aar/dc9997c43ed67727a4424fafaae87bdc/AndroidManifest.xml:11:5-20
-MERGED from [com.wrapp.floatlabelededittext:library:0.0.6] /home/user/.gradle/caches/transforms-1/files-1.1/library-0.0.6.aar/dc9997c43ed67727a4424fafaae87bdc/AndroidManifest.xml:11:5-20
-MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/f750cd48f3f42b2859718a8515d9916a/AndroidManifest.xml:12:5-20
-MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/f750cd48f3f42b2859718a8515d9916a/AndroidManifest.xml:12:5-20
+ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:7:5-26:19
 MERGED from [com.google.firebase:firebase-core:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/ea8a7885a6654c1df93d0324bd666f9c/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/ea8a7885a6654c1df93d0324bd666f9c/AndroidManifest.xml:5:5-20
 MERGED from [com.android.support:design:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/75b9e514e0f29dc36a6dbb4e8ec680a9/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/75b9e514e0f29dc36a6dbb4e8ec680a9/AndroidManifest.xml:25:5-29:19
 MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/7089e2026a582649df048ee0305f71b8/AndroidManifest.xml:13:5-17:19
 MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/7089e2026a582649df048ee0305f71b8/AndroidManifest.xml:13:5-17:19
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-multiselect-0.2.aar/09ed0c7b52eac3e7a5653514a46c2c4c/AndroidManifest.xml:9:5-20
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-multiselect-0.2.aar/09ed0c7b52eac3e7a5653514a46c2c4c/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7d79effdba89c46284f12a142f17b8df/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7d79effdba89c46284f12a142f17b8df/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/464e6da5d1fd3ce9a5574515f8196f56/AndroidManifest.xml:9:5-20
@@ -89,14 +81,22 @@ MERGED from [com.android.support:cardview-v7:26.1.0] /home/user/.gradle/caches/t
 MERGED from [com.android.support:cardview-v7:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/e12519841afe2c8c0f936091adfcfc38/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3f1c832a517ccdbbeb43abcd982ebf8d/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3f1c832a517ccdbbeb43abcd982ebf8d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.getbase:floatingactionbutton:1.9.0] /home/user/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.9.0.aar/2db3b39e1099b695db6d21b4ba6ab311/AndroidManifest.xml:12:5-20
+MERGED from [com.getbase:floatingactionbutton:1.9.0] /home/user/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.9.0.aar/2db3b39e1099b695db6d21b4ba6ab311/AndroidManifest.xml:12:5-20
+MERGED from [com.wdullaer:materialdatetimepicker:1.2.1] /home/user/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-1.2.1.aar/df75b1886b82c3f531096de9ed1146a4/AndroidManifest.xml:28:5-20
+MERGED from [com.wdullaer:materialdatetimepicker:1.2.1] /home/user/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-1.2.1.aar/df75b1886b82c3f531096de9ed1146a4/AndroidManifest.xml:28:5-20
+MERGED from [com.wrapp.floatlabelededittext:library:0.0.6] /home/user/.gradle/caches/transforms-1/files-1.1/library-0.0.6.aar/dc9997c43ed67727a4424fafaae87bdc/AndroidManifest.xml:11:5-20
+MERGED from [com.wrapp.floatlabelededittext:library:0.0.6] /home/user/.gradle/caches/transforms-1/files-1.1/library-0.0.6.aar/dc9997c43ed67727a4424fafaae87bdc/AndroidManifest.xml:11:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/f750cd48f3f42b2859718a8515d9916a/AndroidManifest.xml:12:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/f750cd48f3f42b2859718a8515d9916a/AndroidManifest.xml:12:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/5f98de3cc94a51a89941f8e8478fea64/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/5f98de3cc94a51a89941f8e8478fea64/AndroidManifest.xml:24:5-34:19
 MERGED from [com.android.support:transition:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/138b7aa4b5d322c2ea3ebd3a0adeca21/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:transition:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/138b7aa4b5d322c2ea3ebd3a0adeca21/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/edd9b57ba682c1f22e7ad08703ea0468/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/edd9b57ba682c1f22e7ad08703ea0468/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/191e5909a8bed6aad9ec067186a871ee/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/191e5909a8bed6aad9ec067186a871ee/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/5f98de3cc94a51a89941f8e8478fea64/AndroidManifest.xml:24:5-34:19
-MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/5f98de3cc94a51a89941f8e8478fea64/AndroidManifest.xml:24:5-34:19
 MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/301b7450feced4f842b6aec8baaff812/AndroidManifest.xml:24:5-28:19
 MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/301b7450feced4f842b6aec8baaff812/AndroidManifest.xml:24:5-28:19
 MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/dca6f6ef8dca52a1c48e4df035793f22/AndroidManifest.xml:28:5-49:19
@@ -122,63 +122,55 @@ MERGED from [com.android.support:support-compat:26.1.0] /home/user/.gradle/cache
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2ba4ddf89e400c4e6bccd9978347c814/AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2ba4ddf89e400c4e6bccd9978347c814/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:13:9-40
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:13:9-40
 activity#myapplication2.com.reachontime.MainActivity
-ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:14:9-23:20
+ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:14:9-23:20
 	android:label
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:16:13-45
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:16:13-45
 	android:theme
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:17:13-56
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:17:13-56
 	android:name
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:15:13-41
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:15:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:18:13-22:29
+ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:19:17-69
+ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:19:25-66
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:21:27-74
 activity#myapplication2.com.reachontime.AddTask
-ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:24:9-45
+ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:24:9-45
 	android:name
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:24:19-42
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:24:19-42
 activity#myapplication2.com.reachontime.SingleTask
-ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:25:9-57
+ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:25:9-57
 	android:name
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml:25:19-45
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml:25:19-45
 uses-sdk
-INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml
-INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml
-MERGED from [com.getbase:floatingactionbutton:1.9.0] /home/user/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.9.0.aar/2db3b39e1099b695db6d21b4ba6ab311/AndroidManifest.xml:8:5-10:41
-MERGED from [com.getbase:floatingactionbutton:1.9.0] /home/user/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.9.0.aar/2db3b39e1099b695db6d21b4ba6ab311/AndroidManifest.xml:8:5-10:41
-MERGED from [com.wdullaer:materialdatetimepicker:1.2.1] /home/user/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-1.2.1.aar/df75b1886b82c3f531096de9ed1146a4/AndroidManifest.xml:22:5-24:41
-MERGED from [com.wdullaer:materialdatetimepicker:1.2.1] /home/user/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-1.2.1.aar/df75b1886b82c3f531096de9ed1146a4/AndroidManifest.xml:22:5-24:41
-MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-multiselect-0.2.aar/09ed0c7b52eac3e7a5653514a46c2c4c/AndroidManifest.xml:5:5-7:41
-MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-multiselect-0.2.aar/09ed0c7b52eac3e7a5653514a46c2c4c/AndroidManifest.xml:5:5-7:41
-MERGED from [com.wrapp.floatlabelededittext:library:0.0.6] /home/user/.gradle/caches/transforms-1/files-1.1/library-0.0.6.aar/dc9997c43ed67727a4424fafaae87bdc/AndroidManifest.xml:7:5-9:41
-MERGED from [com.wrapp.floatlabelededittext:library:0.0.6] /home/user/.gradle/caches/transforms-1/files-1.1/library-0.0.6.aar/dc9997c43ed67727a4424fafaae87bdc/AndroidManifest.xml:7:5-9:41
-MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/f750cd48f3f42b2859718a8515d9916a/AndroidManifest.xml:8:5-10:41
-MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/f750cd48f3f42b2859718a8515d9916a/AndroidManifest.xml:8:5-10:41
+INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml
+INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml
 MERGED from [com.google.firebase:firebase-core:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/ea8a7885a6654c1df93d0324bd666f9c/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-core:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/ea8a7885a6654c1df93d0324bd666f9c/AndroidManifest.xml:4:5-43
 MERGED from [com.android.support:design:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/75b9e514e0f29dc36a6dbb4e8ec680a9/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/75b9e514e0f29dc36a6dbb4e8ec680a9/AndroidManifest.xml:21:5-23:62
 MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/7089e2026a582649df048ee0305f71b8/AndroidManifest.xml:7:5-9:41
 MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/7089e2026a582649df048ee0305f71b8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-multiselect-0.2.aar/09ed0c7b52eac3e7a5653514a46c2c4c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-multiselect-0.2.aar/09ed0c7b52eac3e7a5653514a46c2c4c/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7d79effdba89c46284f12a142f17b8df/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7d79effdba89c46284f12a142f17b8df/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/464e6da5d1fd3ce9a5574515f8196f56/AndroidManifest.xml:5:5-7:41
@@ -189,14 +181,22 @@ MERGED from [com.android.support:cardview-v7:26.1.0] /home/user/.gradle/caches/t
 MERGED from [com.android.support:cardview-v7:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/e12519841afe2c8c0f936091adfcfc38/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3f1c832a517ccdbbeb43abcd982ebf8d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3f1c832a517ccdbbeb43abcd982ebf8d/AndroidManifest.xml:20:5-44
+MERGED from [com.getbase:floatingactionbutton:1.9.0] /home/user/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.9.0.aar/2db3b39e1099b695db6d21b4ba6ab311/AndroidManifest.xml:8:5-10:41
+MERGED from [com.getbase:floatingactionbutton:1.9.0] /home/user/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.9.0.aar/2db3b39e1099b695db6d21b4ba6ab311/AndroidManifest.xml:8:5-10:41
+MERGED from [com.wdullaer:materialdatetimepicker:1.2.1] /home/user/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-1.2.1.aar/df75b1886b82c3f531096de9ed1146a4/AndroidManifest.xml:22:5-24:41
+MERGED from [com.wdullaer:materialdatetimepicker:1.2.1] /home/user/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-1.2.1.aar/df75b1886b82c3f531096de9ed1146a4/AndroidManifest.xml:22:5-24:41
+MERGED from [com.wrapp.floatlabelededittext:library:0.0.6] /home/user/.gradle/caches/transforms-1/files-1.1/library-0.0.6.aar/dc9997c43ed67727a4424fafaae87bdc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wrapp.floatlabelededittext:library:0.0.6] /home/user/.gradle/caches/transforms-1/files-1.1/library-0.0.6.aar/dc9997c43ed67727a4424fafaae87bdc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/f750cd48f3f42b2859718a8515d9916a/AndroidManifest.xml:8:5-10:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/f750cd48f3f42b2859718a8515d9916a/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/5f98de3cc94a51a89941f8e8478fea64/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/5f98de3cc94a51a89941f8e8478fea64/AndroidManifest.xml:17:5-43
 MERGED from [com.android.support:transition:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/138b7aa4b5d322c2ea3ebd3a0adeca21/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/138b7aa4b5d322c2ea3ebd3a0adeca21/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/edd9b57ba682c1f22e7ad08703ea0468/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/edd9b57ba682c1f22e7ad08703ea0468/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/191e5909a8bed6aad9ec067186a871ee/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/191e5909a8bed6aad9ec067186a871ee/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/5f98de3cc94a51a89941f8e8478fea64/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/5f98de3cc94a51a89941f8e8478fea64/AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/301b7450feced4f842b6aec8baaff812/AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/301b7450feced4f842b6aec8baaff812/AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/dca6f6ef8dca52a1c48e4df035793f22/AndroidManifest.xml:17:5-43
@@ -223,22 +223,18 @@ MERGED from [com.android.support:support-compat:26.1.0] /home/user/.gradle/cache
 MERGED from [com.android.support:support-compat:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/397b629a5525cc4886133009eb79417a/AndroidManifest.xml:21:5-23:58
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2ba4ddf89e400c4e6bccd9978347c814/AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2ba4ddf89e400c4e6bccd9978347c814/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml
-INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml
+INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml
+INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/75b9e514e0f29dc36a6dbb4e8ec680a9/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml
-		INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml
-		ADDED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml
-		INJECTED from /home/user/AndroidStudioProjects/ReachOnTime/app/src/main/AndroidManifest.xml
-uses-permission#android.permission.VIBRATE
-ADDED from [com.wdullaer:materialdatetimepicker:1.2.1] /home/user/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-1.2.1.aar/df75b1886b82c3f531096de9ed1146a4/AndroidManifest.xml:26:5-66
-	android:name
-		ADDED from [com.wdullaer:materialdatetimepicker:1.2.1] /home/user/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-1.2.1.aar/df75b1886b82c3f531096de9ed1146a4/AndroidManifest.xml:26:22-63
+		INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/repo/ReachOnTime/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/75b9e514e0f29dc36a6dbb4e8ec680a9/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7d79effdba89c46284f12a142f17b8df/AndroidManifest.xml:26:9-28:38
@@ -277,6 +273,10 @@ MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/user/.g
 		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/7089e2026a582649df048ee0305f71b8/AndroidManifest.xml:16:13-66
 	android:name
 		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/7089e2026a582649df048ee0305f71b8/AndroidManifest.xml:15:13-58
+uses-permission#android.permission.VIBRATE
+ADDED from [com.wdullaer:materialdatetimepicker:1.2.1] /home/user/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-1.2.1.aar/df75b1886b82c3f531096de9ed1146a4/AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [com.wdullaer:materialdatetimepicker:1.2.1] /home/user/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-1.2.1.aar/df75b1886b82c3f531096de9ed1146a4/AndroidManifest.xml:26:22-63
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/5f98de3cc94a51a89941f8e8478fea64/AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/user/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/301b7450feced4f842b6aec8baaff812/AndroidManifest.xml:21:5-78

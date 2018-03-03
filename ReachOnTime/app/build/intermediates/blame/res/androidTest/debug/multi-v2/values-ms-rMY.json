@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/user/AndroidStudioProjects/ReachOnTime/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ms-rMY/values-ms-rMY.xml",
+            "outputFile": "/home/user/repo/ReachOnTime/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ms-rMY/values-ms-rMY.xml",
             "map": [
                 {
                     "source": "/home/user/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-1.2.1.aar/df75b1886b82c3f531096de9ed1146a4/res/values-ms-rMY/values.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/user/AndroidStudioProjects/ReachOnTime/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/home/user/repo/ReachOnTime/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1a45451edf4ce2c1d8900ba497c7797a/res/values-v21/values-v21.xml",

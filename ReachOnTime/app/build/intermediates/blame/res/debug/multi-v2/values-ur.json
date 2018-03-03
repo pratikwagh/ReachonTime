@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/user/AndroidStudioProjects/ReachOnTime/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
+            "outputFile": "/home/user/repo/ReachOnTime/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
             "map": [
                 {
                     "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/d262f118843cc947b92309cf29c34ad8/res/values-ur/values.xml",

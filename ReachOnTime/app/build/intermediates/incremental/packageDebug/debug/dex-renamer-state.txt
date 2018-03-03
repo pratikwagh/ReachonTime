@@ -1,4 +1,0 @@
-#Sat Feb 17 17:38:01 IST 2018
-base.0=/home/user/AndroidStudioProjects/ReachOnTime/app/build/intermediates/transforms/dexMerger/debug/19
-path.0=classes.dex
-renamed.0=classes.dex
