@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/user/AndroidStudioProjects/ReachOnTime/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms-rMY/values-ms-rMY.xml",
+            "map": [
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-1.2.1.aar/df75b1886b82c3f531096de9ed1146a4/res/values-ms-rMY/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "267,369,484,566,679,797,914,1009,1095,1185,1272",
+                        "endColumns": "101,114,81,112,117,116,94,85,89,86,100",
+                        "endOffsets": "364,479,561,674,792,909,1004,1090,1180,1267,1368"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,207,322,404,517,635,752,847,933,1023,1110",
+                        "endColumns": "101,114,81,112,117,116,94,85,89,86,100",
+                        "endOffsets": "202,317,399,512,630,747,842,928,1018,1105,1206"
+                    }
+                }
+            ]
+        }
+    ]
+}

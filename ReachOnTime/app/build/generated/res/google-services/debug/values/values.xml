@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">797969266298-rqjjsnso5bhlb4ipkasc99jc9m3gcvjb.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://reachontime-12fb8.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">797969266298</string>
+    <string name="google_api_key" translatable="false">AIzaSyA_4EXyTc5zX0NMOZlN0gTS90rOYQC8hEc</string>
+    <string name="google_app_id" translatable="false">1:797969266298:android:b3783d13904cf93d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA_4EXyTc5zX0NMOZlN0gTS90rOYQC8hEc</string>
+    <string name="google_storage_bucket" translatable="false">reachontime-12fb8.appspot.com</string>
+    <string name="project_id" translatable="false">reachontime-12fb8</string>
+</resources>

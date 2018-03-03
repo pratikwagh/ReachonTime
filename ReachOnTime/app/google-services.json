@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "797969266298",
+    "firebase_url": "https://reachontime-12fb8.firebaseio.com",
+    "project_id": "reachontime-12fb8",
+    "storage_bucket": "reachontime-12fb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797969266298:android:b3783d13904cf93d",
+        "android_client_info": {
+          "package_name": "myapplication2.com.reachontime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797969266298-s00cemnr16pfqf1mj4991qmk4n22jppg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "myapplication2.com.reachontime",
+            "certificate_hash": "179f73ad77cb356662ac4dc9c921e91eecc82011"
+          }
+        },
+        {
+          "client_id": "797969266298-rqjjsnso5bhlb4ipkasc99jc9m3gcvjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_4EXyTc5zX0NMOZlN0gTS90rOYQC8hEc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797969266298-rqjjsnso5bhlb4ipkasc99jc9m3gcvjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

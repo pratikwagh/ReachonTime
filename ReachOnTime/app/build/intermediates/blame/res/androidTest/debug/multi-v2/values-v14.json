@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/user/AndroidStudioProjects/ReachOnTime/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7d79effdba89c46284f12a142f17b8df/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895",
+                        "endLines": "6,7,8,14,20",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "326,397,480,890,1312"
+                    },
+                    "to": {
+                        "startLines": "5,10,11,12,18",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "206,482,553,636,1046",
+                        "endLines": "9,10,11,17,23",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "477,548,631,1041,1463"
+                    }
+                },
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-1.2.1.aar/df75b1886b82c3f531096de9ed1146a4/res/values-v14/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "213",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "359"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        }
+    ]
+}
